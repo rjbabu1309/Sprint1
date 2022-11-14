@@ -23,6 +23,7 @@ int main()
         A a1;
         A a2;
         a1+a2;
+	cout<<"Maraka Manchidhe......."<<endl;
         return 0;
 }
 
